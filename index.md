@@ -1,11 +1,11 @@
-### Welcome to MARCH MADNESS
-# I got fancy this year and made a website, cause that is the kind of thing I do for fun
+# Welcome to MARCH MADNESS
+### I got fancy this year and made a website, cause that is the kind of thing I do for fun
 
 and cause I deleted facebook but that is Zuckerberg's fault for being a creepy untrustworthy alien.
 
 I will have live updating scores here at a minimum. I have ideas for other features in the future but like most of my projects I start them too late and never actually finish.
 
-# Rules
+## Rules
 Here are the rules as presented by Tyre in 2018 cause that is what i have, they will be updated accordingly:
 
 Also need to make a ruling on covid ruining a game.
@@ -28,13 +28,30 @@ That is it!  If you have questions about rules or process you can ask either Nic
 
 # Scoreboard
 
+Name	|RD 64	|RD 32	|SS	|EE	|FF	|Total
+--------|-------|-------|---|---|---|-----
+SCARrison (Cindy)	|74	|40	|24	|32	|20	|190
+Zion aint that	|45	|65	|44	|24	|10	|188
+Wonder Twin Powers Deactivated!	|61	|52	|31	|32	|10	|186
+MACKisBACK	|52	|57	|32	|16	|20	|177
+Zion's Shoe is a Horcrux	|58	|52	|24	|16	|20	|170
+Lindsay	|50	|69	|31	|8	|10	|168
+
+The"Hills" overcometh Mount Zion!!	53	64	24	16	10	167
+Seventh Gear 2019-20	61	44	25	16	20	166
+The Better Coby	62	36	31	16	10	155
+Regina -	56	48	31	16	0	151
+Moving the Heels to the Mountaintop	51	48	36	16	0	151
+California Cam Slam	43	64	24	8	10	149
+Fro Flo' 2 Final Fo	56	44	12	16	20	148
+Stormy Daniels Fans of America	54	32	25	8	20	139
+J. Ramirez	59	40	31	0	0	130
+
 # What If Simulator
 
-[Click here](https://npthom57.github.io/thompsonpickins/scoresim) to go to the what if simulator where you see what the final score would be if certain teams won
+[Click here](https://npthom57.github.io/thompsonpickins/scoresim) to go to the what if simulator where you see what the final score would be if certain teams won.
 
-You can use the [editor on GitHub](https://github.com/npthom57/thompsonpickins/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -59,11 +76,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/npthom57/thompsonpickins/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
