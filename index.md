@@ -36,16 +36,15 @@ Wonder Twin Powers Deactivated!	|61	|52	|31	|32	|10	|186
 MACKisBACK	|52	|57	|32	|16	|20	|177
 Zion's Shoe is a Horcrux	|58	|52	|24	|16	|20	|170
 Lindsay	|50	|69	|31	|8	|10	|168
-
-The"Hills" overcometh Mount Zion!!	53	64	24	16	10	167
-Seventh Gear 2019-20	61	44	25	16	20	166
-The Better Coby	62	36	31	16	10	155
-Regina -	56	48	31	16	0	151
-Moving the Heels to the Mountaintop	51	48	36	16	0	151
-California Cam Slam	43	64	24	8	10	149
-Fro Flo' 2 Final Fo	56	44	12	16	20	148
-Stormy Daniels Fans of America	54	32	25	8	20	139
-J. Ramirez	59	40	31	0	0	130
+The"Hills" overcometh Mount Zion!!	|53	|64	|24	|16	|10	|167
+Seventh Gear 2019-20	|61	|44	|25	|16	|20	|166
+The Better Coby	|62	|36	|31	|16	|10	|155
+Regina -	|56	|48	|31	|16	|0	|151
+Moving the Heels to the Mountaintop	|51	|48	|36	|16	|0	|151
+California Cam Slam	|43	|64	|24	|8	|10	|149
+Fro Flo' 2 Final Fo	|56	|44	|12	|16	|20	|148
+Stormy Daniels Fans of America	|54	|32	|25	|8	|20	|139
+J. Ramirez	|59	|40	|31	|0	|0	|130
 
 # What If Simulator
 
