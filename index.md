@@ -14,7 +14,7 @@ Welcome
 Greetings to all in the 2018 Thompson Family Pickin's Pool.  It is that time of year to pick your brains, pick you favorites and entertain the fantasy of picking enough winners to beat me.  Aaaaaaain't happenin'!  If memory serves me correctly, and it rarely does, I DOMINATED last year and plan on joinin' my Heels in repeating that championship performance.  I am excited about this tournament.  The last couple have been spectacular entertainment for Tar Heel Nation, as our Heels, facing huge expectations, rose to the challenge both years and made us proud.  This year's team has already played beyond expectations and faces less pressure in the Dance, but I am feeling another great run.  I hope so anyway; I so love watching them play.
 
 Scoring and Rules
-The rules have not changed.  We will pick each round before it is played.  McWiz will post his handy Google Doc on the family Facebook Page before each round . . . just make sure to click on your picks and send prior to tipoff of each round's games.  Points are 2, 4, 6, 8, 10, and 10. In addition to picking your winners for each region, you will also pick an upset special in each region.  Your point bonus for that will be the difference in the 2 seeds.  Remember, an upset is a lower seed over an upper seed.  We call this the Lory Beth Reminder.  You do NOT HAVE TO PICK AN UPSET IN A REGION.  Just select the word "chalk."  If you pick an entire region correctly in the first weekend, you get a points bonus, so there is an incentive to not pick upsets if you don't think they are going to happen.  If you pick Duke in any game, you will not lose points, but you will lose my respect. Remember:  your picks must be in before the opening tip of the opening games of each round.  Nicholas has made this insanely easy to do, so don't put us in the difficult position of having to goose egg you for an early flight of games.
+The rules have not changed.  We will pick each round before it is played.  McWiz will post his handy Google Doc on the family Facebook Page before each round . . . just make sure to click on your picks and send prior to tipoff of each round's games.  Points are 2, 4, 6, 8, 10, and 12. In addition to picking your winners for each region, you will also pick an upset special in each region.  Your point bonus for that will be the difference in the 2 seeds.  Remember, an upset is a lower seed over an upper seed.  We call this the Lory Beth Reminder.  You do NOT HAVE TO PICK AN UPSET IN A REGION.  Just select the word "chalk."  If you pick an entire region correctly in the first weekend, you get a points bonus, so there is an incentive to not pick upsets if you don't think they are going to happen.  ~~If you pick Duke in any game~~ *oops sorry not sorry*, you will not lose points, but you will lose my respect. Remember:  your picks must be in before the opening tip of the opening games of each round.  Nicholas has made this insanely easy to do, so don't put us in the difficult position of having to goose egg you for an early flight of games.
 
 Names
 I would like to do something a little different here. The last couple of years our names have kind of gotten lost in the shuffle.  Have your names in by sometime Thursday and I will do a better job of posting them in an easy to read format on the Family FB Page so we can learn them.  Then use a shortened form of your name to sign in for your picks.  That way we get to know each other by our pool names.  I'll send out voting requests for them further along in the tournament.
@@ -28,23 +28,23 @@ That is it!  If you have questions about rules or process you can ask either Nic
 
 # Scoreboard
 
-Name	|RD 64	|RD 32	|SS	|EE	|FF	|Total
+Name	|RD 64	|RD 32	|SS	|EE	|FF	|Champ |Total
 --------|-------|-------|---|---|---|-----
-SCARrison (Cindy)	|74	|40	|24	|32	|20	|190
-Zion aint that	|45	|65	|44	|24	|10	|188
-Wonder Twin Powers Deactivated!	|61	|52	|31	|32	|10	|186
-MACKisBACK	|52	|57	|32	|16	|20	|177
-Zion's Shoe is a Horcrux	|58	|52	|24	|16	|20	|170
-Lindsay	|50	|69	|31	|8	|10	|168
-The"Hills" overcometh Mount Zion!!	|53	|64	|24	|16	|10	|167
-Seventh Gear 2019-20	|61	|44	|25	|16	|20	|166
-The Better Coby	|62	|36	|31	|16	|10	|155
-Regina -	|56	|48	|31	|16	|0	|151
-Moving the Heels to the Mountaintop	|51	|48	|36	|16	|0	|151
-California Cam Slam	|43	|64	|24	|8	|10	|149
-Fro Flo' 2 Final Fo	|56	|44	|12	|16	|20	|148
-Stormy Daniels Fans of America	|54	|32	|25	|8	|20	|139
-J. Ramirez	|59	|40	|31	|0	|0	|130
+SCARrison (Cindy)	|74	|40	|24	|32	|20	|0  |190
+Zion aint that	|45	|65	|44	|24	|10	|0|188
+Wonder Twin Powers Deactivated!	|61	|52	|31	|32	|10|0	|186
+MACKisBACK	|52	|57	|32	|16	|20	|0|177
+Zion's Shoe is a Horcrux	|58	|52	|24	|16	|20	|0|170
+Lindsay	|50	|69	|31	|8	|10	|0|168
+The"Hills" overcometh Mount Zion!!	|53	|64	|24	|16	|10	|0|167
+Seventh Gear 2019-20	|61	|44	|25	|16	|20	|0|166
+The Better Coby	|62	|36	|31	|16	|10	|0|155
+Regina -	|56	|48	|31	|16	|0	|0|151
+Moving the Heels to the Mountaintop	|51	|48	|36	|16	|0	|0|151
+California Cam Slam	|43	|64	|24	|8	|10	|0|149
+Fro Flo' 2 Final Fo	|56	|44	|12	|16	|20	|0|148
+Stormy Daniels Fans of America	|54	|32	|25	|8	|20	|0|139
+J. Ramirez	|59	|40	|31	|0	|0	|0|130
 
 # What If Simulator
 
