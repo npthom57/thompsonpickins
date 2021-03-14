@@ -48,9 +48,11 @@ J. Ramirez	|59	|40	|31	|0	|0	|0|130
 
 # What If Simulator
 
-[Click here](https://npthom57.github.io/thompsonpickins/scoresim) to go to the what if simulator where you see what the final score would be if certain teams won.
+[Click here](https://npthom57.pythonanywhere.com/) to go to the what if simulator where you see what the round's score would be if certain teams won.
 
+# Names
 
+[Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.
 
 ### Markdown
 
