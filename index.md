@@ -1,50 +1,34 @@
 # Welcome to MARCH MADNESS
-### I got fancy this year and made a website, cause that is the kind of thing I do for fun
-
-and cause I deleted facebook but that is Zuckerberg's fault for being a creepy untrustworthy alien.
-
-I will have live updating scores here at a minimum. I have ideas for other features in the future but like most of my projects I start them too late and never actually finish.
 
 ## Rules
-Here are the rules as presented by Tyre in 2018 cause that is what i have, they will be updated accordingly:
 
-Also need to make a ruling on covid ruining a game.
+All right, all right, all right hoopsnosticators, it is time to put your hardwood expertise to the test in the 2022 Thompson Family Pickins'. COVID has added an extra challenge this year by introducing seemingly random game cancelations that you cagey cager experts are going to have to factor into your roundball predictions, but at least you won't have to wear a mask while doing it.
 
-Welcome
-Greetings to all in the 2018 Thompson Family Pickin's Pool.  It is that time of year to pick your brains, pick you favorites and entertain the fantasy of picking enough winners to beat me.  Aaaaaaain't happenin'!  If memory serves me correctly, and it rarely does, I DOMINATED last year and plan on joinin' my Heels in repeating that championship performance.  I am excited about this tournament.  The last couple have been spectacular entertainment for Tar Heel Nation, as our Heels, facing huge expectations, rose to the challenge both years and made us proud.  This year's team has already played beyond expectations and faces less pressure in the Dance, but I am feeling another great run.  I hope so anyway; I so love watching them play.
+Rules:
+1st Round ... 2 pts
+2nd Round .. 4
+Sweet 16 .... 6
+Elite 8 ......... 8
+Final Four ... 10
+Title Game . 12
 
-Scoring and Rules
-The rules have not changed.  We will pick each round before it is played.  McWiz will post his handy Google Doc on the family Facebook Page before each round . . . just make sure to click on your picks and send prior to tipoff of each round's games.  Points are 2, 4, 6, 8, 10, and 12. In addition to picking your winners for each region, you will also pick an upset special in each region.  Your point bonus for that will be the difference in the 2 seeds.  Remember, an upset is a lower seed over an upper seed.  We call this the Lory Beth Reminder.  You do NOT HAVE TO PICK AN UPSET IN A REGION.  Just select the word "chalk."  If you pick an entire region correctly in the first weekend, you get a points bonus, so there is an incentive to not pick upsets if you don't think they are going to happen.  ~~If you pick Duke in any game~~ *oops sorry not sorry*, you will not lose points, but you will lose my respect. Remember:  your picks must be in before the opening tip of the opening games of each round.  Nicholas has made this insanely easy to do, so don't put us in the difficult position of having to goose egg you for an early flight of games.
+You may pick an upset special for each region through the first 2 rounds worth the difference in the seeds. We will pick one upset special total for the Sweet 16, Elite 8 and Final 4.
 
-Names
-I would like to do something a little different here. The last couple of years our names have kind of gotten lost in the shuffle.  Have your names in by sometime Thursday and I will do a better job of posting them in an easy to read format on the Family FB Page so we can learn them.  Then use a shortened form of your name to sign in for your picks.  That way we get to know each other by our pool names.  I'll send out voting requests for them further along in the tournament.
+Remember, you do not have to pick an upset special and there is a regional bonus each round for the first two rounds. If you pick any region completely correct in the first round you will earn 5 bonus points. If you pick any 2 regions completely correct in the second round you will receive 4 bonus points.
 
-The Pot
-I would also like to make a small change here.  Get your entry (3 bones a head) to Mom at your earliest convenience.  Mom has always made this special by sending out little Winner's Certificates to the Pickin's Winner and the Name Winner.  That also gets lost in the shuffle at the end of the pool when we are all kind of tired.  I propose that she save the money and her certificates for our next big family gathering during the year (even if it's next Christmas) and that we have a little Awards Ceremony and formally present the winners their prizes.  I will be happy to be the master of ceremony.  Lindsay and any others can FaceTime with us if they can't make it.  Saves the logistics of mailing stuff makes Mom's special efforts something we can all share.
+***COVID 19 PROTOCOL***. It wouldn't be 2020-2021 without C-19 accommodations. If a game is canceled, we just don't count it. If it was your upset special, tough luck on that half-court shot, it rimmed out. If the whole tourney is canceled, I win.
 
-Conclusion
-That is it!  If you have questions about rules or process you can ask either Nicholas or me.  Problems with your picking form will go to Nicholas because that is beyond my technological pay grade.  Any other problems or complaints can come to me.  If you have a logistics issue that might delay your picks, let either of us know ahead of time and we can work it out.  Pick from the brain, pick from heart, pick from the gut, but please, please don't pick from the nose.  That's gross.  GOOD LUCK!  GO HEELS!
+Names: Come up with a competition stage name. Send it to me. I'll list them and we'll vote. Send them by group me or text....that way I won't miss them and will get them quicker.
+
+Finally, we will start a new tradition this year. No bones in the pot....Instead, we will borrow from Miami's "Turnover Chain" ( like everyone else has) and I will make some trophy bling for us to pass around from year to year to see how long we can keep up with it. We started this with our Super Bowl Party in Austin this past year and it was quite cute, with Emma and Teo trading it off... 🙄 They are not allowed in the pool....Granddad rule.
+
+McWiz will send out a link when he has the Pickins' Tabulatory Machine ready. Good luck all, and GO HEELS!
 
 
 # Scoreboard
 
-Name	|RD 64	|RD 32	|SS	|EE	|FF	|Champ |Total
---------|-------|-------|---|---|---|-----
-SCARrison (Cindy)	|74	|40	|24	|32	|20	|0  |190
-Zion aint that	|45	|65	|44	|24	|10	|0|188
-Wonder Twin Powers Deactivated!	|61	|52	|31	|32	|10|0	|186
-MACKisBACK	|52	|57	|32	|16	|20	|0|177
-Zion's Shoe is a Horcrux	|58	|52	|24	|16	|20	|0|170
-Lindsay	|50	|69	|31	|8	|10	|0|168
-The"Hills" overcometh Mount Zion!!	|53	|64	|24	|16	|10	|0|167
-Seventh Gear 2019-20	|61	|44	|25	|16	|20	|0|166
-The Better Coby	|62	|36	|31	|16	|10	|0|155
-Regina -	|56	|48	|31	|16	|0	|0|151
-Moving the Heels to the Mountaintop	|51	|48	|36	|16	|0	|0|151
-California Cam Slam	|43	|64	|24	|8	|10	|0|149
-Fro Flo' 2 Final Fo	|56	|44	|12	|16	|20	|0|148
-Stormy Daniels Fans of America	|54	|32	|25	|8	|20	|0|139
-J. Ramirez	|59	|40	|31	|0	|0	|0|130
+This is where the round end scores will go. Live updating scoreboard work in progress.
+
 
 # What If Simulator
 
