@@ -27,7 +27,7 @@ McWiz will send out a link when he has the Pickins' Tabulatory Machine ready. Go
 
 # Scoreboard
 
-This is where the round end scores will go. Live updating scoreboard work in progress.
+[Click here](https://npthom57.pythonanywhere.com/scoreboard) for live scores.
 
 
 # What If Simulator
@@ -37,27 +37,3 @@ This is where the round end scores will go. Live updating scoreboard work in pro
 # Names
 
 [Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
