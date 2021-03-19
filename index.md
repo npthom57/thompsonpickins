@@ -5,7 +5,7 @@
 All right, all right, all right hoopsnosticators, it is time to put your hardwood expertise to the test in the 2022 Thompson Family Pickins'. COVID has added an extra challenge this year by introducing seemingly random game cancelations that you cagey cager experts are going to have to factor into your roundball predictions, but at least you won't have to wear a mask while doing it.
 
 
-Rules:
+Rules:\
 1st Round ... 2 pts  \
 2nd Round ... 4  \
 Sweet 16 .... 6  \
@@ -29,13 +29,14 @@ McWiz will send out a link when he has the Pickins' Tabulatory Machine ready. Go
 
 # Scoreboard
 
-[Click here](https://npthom57.pythonanywhere.com/scoreboard) for live scores.
+[Click here](https://npthom57.pythonanywhere.com/scoreboard) for live scores as well as a place to publicly trash talk.
 
 
 # What If Simulator
 
-[Click here](https://npthom57.pythonanywhere.com/) to go to the what if simulator where you see what the round's score would be if certain teams won.
+[Click here](https://docs.google.com/spreadsheets/d/1_Agmoek91nLDOqPd5EFf9fsR7GYrhrPDephO7ESxbNc/edit?usp=sharing) to go to the what if simulator where you see what the round's score would be if certain teams won.
+I'm trying to see if I can make an even easier to use tool where you just click buttons but I am new to most of this so that might have to wait until next year. For now you can just input winners into this google doc to see how it affects the scoreboard.
 
 # Names
 
-[Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.
+<---![Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.--->
