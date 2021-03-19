@@ -4,13 +4,15 @@
 
 All right, all right, all right hoopsnosticators, it is time to put your hardwood expertise to the test in the 2022 Thompson Family Pickins'. COVID has added an extra challenge this year by introducing seemingly random game cancelations that you cagey cager experts are going to have to factor into your roundball predictions, but at least you won't have to wear a mask while doing it.
 
+
 Rules:
 1st Round ... 2 pts
-2nd Round .. 4
+2nd Round ... 4
 Sweet 16 .... 6
-Elite 8 ......... 8
-Final Four ... 10
-Title Game . 12
+Elite 8 ..... 8
+Final Four .. 10
+Title Game .. 12
+
 
 You may pick an upset special for each region through the first 2 rounds worth the difference in the seeds. We will pick one upset special total for the Sweet 16, Elite 8 and Final 4.
 
