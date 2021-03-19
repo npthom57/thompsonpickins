@@ -11,7 +11,7 @@ Rules:\
 Sweet 16 .... 6  \
 Elite 8 ..... 8  \
 Final Four .. 10  \
-Title Game .. 12  \
+Title Game .. 12  
 
 
 You may pick an upset special for each region through the first 2 rounds worth the difference in the seeds. We will pick one upset special total for the Sweet 16, Elite 8 and Final 4.
@@ -39,4 +39,4 @@ I'm trying to see if I can make an even easier to use tool where you just click 
 
 # Names
 
-<---![Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.--->
+[Click here](https://npthom57.github.io/thompsonpickins/names) to view all the writeups for the entries to the names contest.
