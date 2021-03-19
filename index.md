@@ -29,7 +29,7 @@ McWiz will send out a link when he has the Pickins' Tabulatory Machine ready. Go
 
 # Scoreboard
 
-[Click here](https://docs.google.com/spreadsheets/d/1Uq1NGx2SQdCxeS8CiY3pGke5H1PTH7bigNAjjMFh3Kk/edit?usp=sharing) for live scores.
+[Click here](https://docs.google.com/spreadsheets/d/1Uq1NGx2SQdCxeS8CiY3pGke5H1PTH7bigNAjjMFh3Kk/edit?usp=sharing) for live scores and picks.
 
 I will put an end of round scoreboard here, if the round is over and there is no scoreboard here please let me know.
 
