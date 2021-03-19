@@ -29,12 +29,14 @@ McWiz will send out a link when he has the Pickins' Tabulatory Machine ready. Go
 
 # Scoreboard
 
-[Click here](https://npthom57.pythonanywhere.com/scoreboard) for live scores as well as a place to publicly trash talk.
+[Click here](https://docs.google.com/spreadsheets/d/1Uq1NGx2SQdCxeS8CiY3pGke5H1PTH7bigNAjjMFh3Kk/edit?usp=sharing) for live scores.
 
+I will put an end of round scoreboard here, if the round is over and there is no scoreboard here please let me know.
 
 # What If Simulator
 
 [Click here](https://docs.google.com/spreadsheets/d/1_Agmoek91nLDOqPd5EFf9fsR7GYrhrPDephO7ESxbNc/edit?usp=sharing) to go to the what if simulator where you see what the round's score would be if certain teams won.
+
 I'm trying to see if I can make an even easier to use tool where you just click buttons but I am new to most of this so that might have to wait until next year. For now you can just input winners into this google doc to see how it affects the scoreboard.
 
 # Names
