@@ -3,7 +3,9 @@
 
 # Scoreboard
 
-[Click here](https://docs.google.com/spreadsheets/d/1Uq1NGx2SQdCxeS8CiY3pGke5H1PTH7bigNAjjMFh3Kk/edit?usp=sharing) for live scores and picks.
+[Click here](https://docs.google.com/spreadsheets/d/14lMAph7P91B46_OgOnTMaG2ptEdsUp_6LW1G0nEpd5w/edit?usp=sharing) for live scores and picks.
+
+[Round 1](https://docs.google.com/spreadsheets/d/1Uq1NGx2SQdCxeS8CiY3pGke5H1PTH7bigNAjjMFh3Kk/edit?usp=sharing)
 
 I will put an end of round scoreboard here, if the round is over and there is no scoreboard here please let me know.
 
